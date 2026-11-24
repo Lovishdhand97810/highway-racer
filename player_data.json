@@ -1,0 +1,11 @@
+{
+    "coins": 2400,
+    "unlocked": [
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "selected_vehicle": 2
+}
